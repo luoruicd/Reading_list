@@ -7,5 +7,7 @@
 https://cs.stanford.edu/~matei/papers/2014/genome_research_surpi.pdf
 
 Source:
+
 Standford DAWN: https://dawn.cs.stanford.edu/
+
 Snorkel: https://github.com/HazyResearch/snorkel
