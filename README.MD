@@ -10,8 +10,15 @@ Quick look in CellProfile shows it can extract some cell image info like nuclei,
 2. A cloud-compatible bioinformatics pipeline for ultrarapid pathogen identification from next-generation sequencing of clinical samples 
 https://cs.stanford.edu/~matei/papers/2014/genome_research_surpi.pdf
 
+3. Hybrid deep supervision: multi-task for both classification and segementation on medical imaging: https://arxiv.org/pdf/1808.10646.pdf
+
+related previous work - deep supervision: https://arxiv.org/pdf/1505.02496.pdf
+
 Source:
 
 Standford DAWN: https://dawn.cs.stanford.edu/
 
 Snorkel: https://github.com/HazyResearch/snorkel
+
+AI blog: https://zhuanlan.zhihu.com/p/34357771
+
