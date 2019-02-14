@@ -2,6 +2,8 @@ Classical:
 
 keras: https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
 
+tensorflow: https://www.tensorflow.org/hub/tutorials/image_retraining
+
 ResNet: https://arxiv.org/pdf/1512.03385.pdf
 
 
