@@ -22,3 +22,10 @@ Snorkel: https://github.com/HazyResearch/snorkel
 
 AI blog: https://zhuanlan.zhihu.com/p/34357771
 
+2019/02/13
+
+1. image classification transfer learning, imagenet feature +  original
+images, gradient features, and distanced transform features for ultrasound image classification: https://arxiv.org/ftp/arxiv/papers/1801/1801.00224.pdf
+
+Note: interesting ideas to make 2D ultrasound image to RGB channels
+
