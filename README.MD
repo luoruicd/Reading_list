@@ -1,6 +1,9 @@
 Classical:
 
+keras: https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
+
 ResNet: https://arxiv.org/pdf/1512.03385.pdf
+
 
 2019/01/31
 
