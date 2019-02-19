@@ -37,3 +37,9 @@ images, gradient features, and distanced transform features for ultrasound image
 
 Note: interesting ideas to make 2D ultrasound image to RGB channels
 
+2019/02/18
+
+1. genetic SNP + image for disease classification. using SVM+: http://lxduan.info/papers/DuanMICCAI2014.pdf
+
+
+
