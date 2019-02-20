@@ -52,6 +52,9 @@ similar paper for PacBio: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3464235/p
 
 1. good overview of sequencing data analysis: http://www.im.cas.cn/kytjpt/jsjl/201412/P020141208537486451133.pdf ; for NGS analysis: https://www.zhihu.com/question/23492496?rf=26011991
 
+2. comparison of nanopore and pacificBio: http://www.sohu.com/a/227171939_464200
+
+
 
 
 
