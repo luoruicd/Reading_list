@@ -41,5 +41,12 @@ Note: interesting ideas to make 2D ultrasound image to RGB channels
 
 1. genetic SNP + image for disease classification. using SVM+: http://lxduan.info/papers/DuanMICCAI2014.pdf
 
+2019/02/19
+
+1. Oxford Nanopore sequencing, hybrid error correction, and de novo assembly of a eukaryotic genome https://genome.cshlp.org/content/25/11/1750.full.pdf+html
+
+Note: use 2nd generation seq to correct the error of 3rd generation, then do de novo assembly. platform: Oxford Nanopore
+similar paper for PacBio: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3464235/pdf/pone.0046679.pdf
+
 
 
