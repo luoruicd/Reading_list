@@ -58,6 +58,10 @@ similar paper for PacBio: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3464235/p
 
 4. DeepBinner: DNN for Nanopore multiplex barcode classification (CNN, softmax): from eletronic signal to barcode classification: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006583
 
+Note: did data augmentation, added gausian noise in training data. 
+
+5. WaveNano: use WaveNet to classify k-mer label and move/stay label, but not the final ATGC sequence: https://link.springer.com/content/pdf/10.1007%2Fs40484-018-0155-4.pdf
+
 
 
 
