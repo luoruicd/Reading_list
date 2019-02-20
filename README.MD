@@ -54,6 +54,12 @@ similar paper for PacBio: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3464235/p
 
 2. comparison of nanopore and pacificBio: http://www.sohu.com/a/227171939_464200
 
+3. Ciron: DNN for Nanopore basecalling (CNN+RNN): from eletronic signal to ATGC: https://academic.oup.com/gigascience/article/7/5/giy037/4966989
+
+4. DeepBinner: DNN for Nanopore multiplex barcode classification (CNN, softmax): from eletronic signal to barcode classification: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006583
+
+
+
 
 
 
