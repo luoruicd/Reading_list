@@ -62,6 +62,16 @@ Note: did data augmentation, added gausian noise in training data.
 
 5. WaveNano: use WaveNet to classify k-mer label and move/stay label, but not the final ATGC sequence: https://link.springer.com/content/pdf/10.1007%2Fs40484-018-0155-4.pdf
 
+2019/02/21
+
+1. machine learning/DNN for SV, currently only has on 2nd generation seq, the idea is only to combine the results and build a model to remove false positive from other SV call softwares:
+
+1) CNNdel: https://www.hindawi.com/journals/bmri/2017/6375059/
+
+2) RF based: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3427657/
+
+2. Sniffles, software for 3rd generation SV call: https://www.biorxiv.org/content/biorxiv/early/2017/07/28/169557.full.pdf
+
 
 
 
