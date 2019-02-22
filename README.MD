@@ -1,10 +1,16 @@
 Classical:
 
+ResNet: https://arxiv.org/pdf/1512.03385.pdf
+
+MaskRCNN: https://arxiv.org/pdf/1703.06870.pdf
+
+Unet: https://arxiv.org/abs/1505.04597
+
+Tutorial:
+
 keras: https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
 
 tensorflow: https://www.tensorflow.org/hub/tutorials/image_retraining
-
-ResNet: https://arxiv.org/pdf/1512.03385.pdf
 
 
 2019/01/31
