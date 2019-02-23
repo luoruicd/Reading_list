@@ -8,6 +8,8 @@ Unet: https://arxiv.org/abs/1505.04597
 
 standford medical image DNN: https://aimi.stanford.edu/projects/deep-learning-computer-vision
 
+standford ML group: https://stanfordmlgroup.github.io/
+
 
 Tutorial:
 
