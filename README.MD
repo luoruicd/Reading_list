@@ -6,6 +6,9 @@ MaskRCNN: https://arxiv.org/pdf/1703.06870.pdf
 
 Unet: https://arxiv.org/abs/1505.04597
 
+standford medical image DNN: https://aimi.stanford.edu/projects/deep-learning-computer-vision
+
+
 Tutorial:
 
 keras: https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception-xception-keras/
