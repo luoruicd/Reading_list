@@ -78,7 +78,9 @@ Note: did data augmentation, added gausian noise in training data.
 
 2. Sniffles, software for 3rd generation SV call: https://www.biorxiv.org/content/biorxiv/early/2017/07/28/169557.full.pdf
 
+2019/02/22
 
+1. panoptic segmentation (semantic segmentation + instance segmentation) review: https://www.jiqizhixin.com/articles/2018-12-24-12
 
 
 
