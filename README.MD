@@ -87,6 +87,9 @@ Note: did data augmentation, added gausian noise in training data.
 
 1. panoptic segmentation (semantic segmentation + instance segmentation) review: https://www.jiqizhixin.com/articles/2018-12-24-12
 
+2019/02/25
+
+1.Chest Xray data and model from standford: https://arxiv.org/pdf/1901.07031.pdf
 
 
 
