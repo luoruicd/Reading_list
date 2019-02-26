@@ -91,6 +91,12 @@ Note: did data augmentation, added gausian noise in training data.
 
 1.Chest Xray data and model from standford: https://arxiv.org/pdf/1901.07031.pdf
 
+2019/02/26
+
+1. Highly-accurate long-read sequencing improves variant detection and assembly of a human genome: https://www.biorxiv.org/content/biorxiv/early/2019/01/13/519025.full.pdf 
+
+note: multi-task CNN for detecting SNP/Indel in 3rd generation seq
+
 
 
 
