@@ -98,6 +98,11 @@ Sequencing : https://www.biorxiv.org/content/biorxiv/early/2018/04/28/310458.ful
 
 note: multi-task CNN for detecting SNP/Indel in 3rd generation seq
 
+2019/02/28
+
+1. DeepVariant: https://www.biorxiv.org/content/10.1101/092890v6
+
+
 
 
 
