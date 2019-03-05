@@ -103,6 +103,14 @@ note: multi-task CNN for detecting SNP/Indel in 3rd generation seq
 1. DeepVariant: https://www.biorxiv.org/content/10.1101/092890v6
 
 
+2019/03/05
+
+1. Medical image data augmentation: https://arxiv.org/pdf/1902.09383.pdf space + appareance transform model for one-shot learning
+
+2. Unsupervised learning for learning encoders: https://arxiv.org/pdf/1901.04596.pdf
+
+3. good architecture for image classification and segmentation: https://arxiv.org/pdf/1411.5752.pdf
+
 
 
 
