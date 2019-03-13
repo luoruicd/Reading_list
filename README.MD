@@ -111,6 +111,14 @@ note: multi-task CNN for detecting SNP/Indel in 3rd generation seq
 
 3. good architecture for image classification and segmentation: https://arxiv.org/pdf/1411.5752.pdf
 
+2019/03/13
+
+1. DNN for somatic mutation detection: https://www.biorxiv.org/content/biorxiv/early/2018/09/04/393801.full.pdf
+
+note: learn how it constructs the tensor from sequencing data.
+
+
+
 
 
 
