@@ -117,6 +117,12 @@ note: multi-task CNN for detecting SNP/Indel in 3rd generation seq
 
 note: learn how it constructs the tensor from sequencing data.
 
+2019/04/04
+
+SV reading: https://www.jianshu.com/p/4c8e109f0e6a
+
+Making the difference: integrating structural variation detection tools: https://academic.oup.com/bib/article/16/5/852/217239
+
 
 
 
