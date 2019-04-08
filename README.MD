@@ -123,6 +123,16 @@ SV reading: https://www.jianshu.com/p/4c8e109f0e6a
 
 Making the difference: integrating structural variation detection tools: https://academic.oup.com/bib/article/16/5/852/217239
 
+2019/04/08
+
+L1000 drug+cell line expression database: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990023/pdf/nihms917441.pdf
+
+AVT from guojun: https://arxiv.org/pdf/1903.10863.pdf
+
+Predicting drug response of tumors from integrated genomic profiles by deep neural networks: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6357352/pdf/12920_2018_Article_460.pdf
+
+Cancer Drug Response Profle scan (CDRscan): A Deep Learning Model That Predicts Drug Efectiveness from Cancer Genomic Signature: https://www.nature.com/articles/s41598-018-27214-6.pdf
+
 
 
 
