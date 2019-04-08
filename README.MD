@@ -133,7 +133,7 @@ Predicting drug response of tumors from integrated genomic profiles by deep neur
 
 Cancer Drug Response Profle scan (CDRscan): A Deep Learning Model That Predicts Drug Efectiveness from Cancer Genomic Signature: https://www.nature.com/articles/s41598-018-27214-6.pdf
 
-
+Highly-accurate long-read sequencing improves variant detection and assembly of a human genome: https://www.biorxiv.org/content/biorxiv/early/2019/01/13/519025.full.pdf
 
 
 
