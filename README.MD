@@ -135,6 +135,9 @@ Cancer Drug Response Profle scan (CDRscan): A Deep Learning Model That Predicts 
 
 Highly-accurate long-read sequencing improves variant detection and assembly of a human genome: https://www.biorxiv.org/content/biorxiv/early/2019/01/13/519025.full.pdf
 
+2019/04/09
+
+review of unsupervised and semi-supervisded methods: https://arxiv.org/pdf/1903.11260.pdf
 
 
 
