@@ -17,6 +17,38 @@ keras: https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception
 
 tensorflow: https://www.tensorflow.org/hub/tutorials/image_retraining
 
+2019/04/04
+
+SV reading: https://www.jianshu.com/p/4c8e109f0e6a
+
+Making the difference: integrating structural variation detection tools: https://academic.oup.com/bib/article/16/5/852/217239
+
+2019/04/08
+
+L1000 drug+cell line expression database: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990023/pdf/nihms917441.pdf
+
+AVT from guojun: https://arxiv.org/pdf/1903.10863.pdf
+
+Predicting drug response of tumors from integrated genomic profiles by deep neural networks: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6357352/pdf/12920_2018_Article_460.pdf
+
+Cancer Drug Response Profle scan (CDRscan): A Deep Learning Model That Predicts Drug Efectiveness from Cancer Genomic Signature: https://www.nature.com/articles/s41598-018-27214-6.pdf
+
+Highly-accurate long-read sequencing improves variant detection and assembly of a human genome: https://www.biorxiv.org/content/biorxiv/early/2019/01/13/519025.full.pdf
+
+2019/04/09
+
+review of unsupervised and semi-supervisded methods: https://arxiv.org/pdf/1903.11260.pdf
+
+2019/04/10
+
+List of object detection framework(fastRCNN, fasterRCNN etc): https://zhuanlan.zhihu.com/p/44599606
+
+CE-Net: Context Encoder Network for 2D Medical Image Segmentation：https://arxiv.org/pdf/1903.02740.pdf
+
+MASK-RCNN AND U-NET ENSEMBLED FOR NUCLEI SEGMENTATION: https://arxiv.org/pdf/1901.10170.pdf
+
+Deeplab v3+: https://github.com/tensorflow/models/tree/master/research/deeplab
+
 
 2019/01/31
 
@@ -117,33 +149,5 @@ note: multi-task CNN for detecting SNP/Indel in 3rd generation seq
 
 note: learn how it constructs the tensor from sequencing data.
 
-2019/04/04
 
-SV reading: https://www.jianshu.com/p/4c8e109f0e6a
-
-Making the difference: integrating structural variation detection tools: https://academic.oup.com/bib/article/16/5/852/217239
-
-2019/04/08
-
-L1000 drug+cell line expression database: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5990023/pdf/nihms917441.pdf
-
-AVT from guojun: https://arxiv.org/pdf/1903.10863.pdf
-
-Predicting drug response of tumors from integrated genomic profiles by deep neural networks: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6357352/pdf/12920_2018_Article_460.pdf
-
-Cancer Drug Response Profle scan (CDRscan): A Deep Learning Model That Predicts Drug Efectiveness from Cancer Genomic Signature: https://www.nature.com/articles/s41598-018-27214-6.pdf
-
-Highly-accurate long-read sequencing improves variant detection and assembly of a human genome: https://www.biorxiv.org/content/biorxiv/early/2019/01/13/519025.full.pdf
-
-2019/04/09
-
-review of unsupervised and semi-supervisded methods: https://arxiv.org/pdf/1903.11260.pdf
-
-2019/04/10
-
-List of object detection framework(fastRCNN, fasterRCNN etc): https://zhuanlan.zhihu.com/p/44599606
-
-CE-Net: Context Encoder Network for 2D Medical Image Segmentation：https://arxiv.org/pdf/1903.02740.pdf
-
-MASK-RCNN AND U-NET ENSEMBLED FOR NUCLEI SEGMENTATION: https://arxiv.org/pdf/1901.10170.pdf
 
