@@ -145,5 +145,5 @@ List of object detection framework(fastRCNN, fasterRCNN etc): https://zhuanlan.z
 
 CE-Net: Context Encoder Network for 2D Medical Image Segmentation：https://arxiv.org/pdf/1903.02740.pdf
 
-
+MASK-RCNN AND U-NET ENSEMBLED FOR NUCLEI SEGMENTATION: https://arxiv.org/pdf/1901.10170.pdf
 
