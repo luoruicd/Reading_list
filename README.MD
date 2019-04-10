@@ -139,6 +139,10 @@ Highly-accurate long-read sequencing improves variant detection and assembly of 
 
 review of unsupervised and semi-supervisded methods: https://arxiv.org/pdf/1903.11260.pdf
 
+2019/04/10
+
+List of object detection framework(fastRCNN, fasterRCNN etc): https://zhuanlan.zhihu.com/p/44599606
+
 
 
 
