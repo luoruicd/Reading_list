@@ -143,6 +143,7 @@ review of unsupervised and semi-supervisded methods: https://arxiv.org/pdf/1903.
 
 List of object detection framework(fastRCNN, fasterRCNN etc): https://zhuanlan.zhihu.com/p/44599606
 
+CE-Net: Context Encoder Network for 2D Medical Image Segmentation：https://arxiv.org/pdf/1903.02740.pdf
 
 
 
