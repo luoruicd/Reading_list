@@ -21,6 +21,8 @@ tensorflow: https://www.tensorflow.org/hub/tutorials/image_retraining
 
 split reads in samtools: https://www.biostars.org/p/146178/
 
+sam/bam file tag info: http://www.biotrainee.com/thread-1598-1-1.html
+
 2019/04/04
 
 SV reading: https://www.jianshu.com/p/4c8e109f0e6a
