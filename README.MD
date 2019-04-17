@@ -17,6 +17,9 @@ keras: https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception
 
 tensorflow: https://www.tensorflow.org/hub/tutorials/image_retraining
 
+***************************************************************
+********** 2019/04
+
 2019/04/17:
 
 nanoSV: https://www.nature.com/articles/s41467-017-01343-4.pdf
@@ -27,11 +30,19 @@ split reads in samtools: https://www.biostars.org/p/146178/
 
 sam/bam file tag info: http://www.biotrainee.com/thread-1598-1-1.html
 
-2019/04/04
+2019/04/10
 
-SV reading: https://www.jianshu.com/p/4c8e109f0e6a
+List of object detection framework(fastRCNN, fasterRCNN etc): https://zhuanlan.zhihu.com/p/44599606
 
-Making the difference: integrating structural variation detection tools: https://academic.oup.com/bib/article/16/5/852/217239
+CE-Net: Context Encoder Network for 2D Medical Image Segmentation：https://arxiv.org/pdf/1903.02740.pdf
+
+MASK-RCNN AND U-NET ENSEMBLED FOR NUCLEI SEGMENTATION: https://arxiv.org/pdf/1901.10170.pdf
+
+Deeplab v3+: https://github.com/tensorflow/models/tree/master/research/deeplab
+
+2019/04/09
+
+review of unsupervised and semi-supervisded methods: https://arxiv.org/pdf/1903.11260.pdf
 
 2019/04/08
 
@@ -45,21 +56,14 @@ Cancer Drug Response Profle scan (CDRscan): A Deep Learning Model That Predicts 
 
 Highly-accurate long-read sequencing improves variant detection and assembly of a human genome: https://www.biorxiv.org/content/biorxiv/early/2019/01/13/519025.full.pdf
 
-2019/04/09
+2019/04/04
 
-review of unsupervised and semi-supervisded methods: https://arxiv.org/pdf/1903.11260.pdf
+SV reading: https://www.jianshu.com/p/4c8e109f0e6a
 
-2019/04/10
+Making the difference: integrating structural variation detection tools: https://academic.oup.com/bib/article/16/5/852/217239
 
-List of object detection framework(fastRCNN, fasterRCNN etc): https://zhuanlan.zhihu.com/p/44599606
-
-CE-Net: Context Encoder Network for 2D Medical Image Segmentation：https://arxiv.org/pdf/1903.02740.pdf
-
-MASK-RCNN AND U-NET ENSEMBLED FOR NUCLEI SEGMENTATION: https://arxiv.org/pdf/1901.10170.pdf
-
-Deeplab v3+: https://github.com/tensorflow/models/tree/master/research/deeplab
-
-
+***************************************************************
+********** before 2019/04
 2019/01/31
 
 1. Predicting non-small cell lung cancer prognosis by fully automated microscopic pathology image features https://www.nature.com/articles/ncomms12474
