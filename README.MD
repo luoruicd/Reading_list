@@ -17,6 +17,10 @@ keras: https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception
 
 tensorflow: https://www.tensorflow.org/hub/tutorials/image_retraining
 
+2019/04/17:
+
+nanoSV: https://www.nature.com/articles/s41467-017-01343-4.pdf
+
 2019/04/15
 
 split reads in samtools: https://www.biostars.org/p/146178/
