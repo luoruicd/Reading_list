@@ -30,6 +30,8 @@ ImageNet-trained CNNs are biased towards texture; increasing shape bias improves
 
 few-shot learning review: https://arxiv.org/pdf/1904.05046.pdf
 
+Low-Shot Learning from Imaginary Data: https://arxiv.org/pdf/1801.05401.pdf
+
 2019/04/17:
 
 nanoSV: https://www.nature.com/articles/s41467-017-01343-4.pdf
