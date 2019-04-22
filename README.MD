@@ -28,6 +28,8 @@ transfer learning and domain adaptation paper pool: https://github.com/artix41/a
 
 ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness: https://openreview.net/forum?id=Bygh9j09KX
 
+few-shot learning review: https://arxiv.org/pdf/1904.05046.pdf
+
 2019/04/17:
 
 nanoSV: https://www.nature.com/articles/s41467-017-01343-4.pdf
