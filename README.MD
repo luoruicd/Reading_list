@@ -24,6 +24,10 @@ tensorflow: https://www.tensorflow.org/hub/tutorials/image_retraining
 
 domain adaptation review blog: https://artix41.github.io/static/domain-adaptation-in-2017/index.html#fn2
 
+transfer learning and domain adaptation paper pool: https://github.com/artix41/awesome-transfer-learning#adversarial-methods
+
+ImageNet-trained CNNs are biased towards texture; increasing shape bias improves accuracy and robustness: https://openreview.net/forum?id=Bygh9j09KX
+
 2019/04/17:
 
 nanoSV: https://www.nature.com/articles/s41467-017-01343-4.pdf
