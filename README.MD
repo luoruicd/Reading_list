@@ -32,6 +32,12 @@ few-shot learning review: https://arxiv.org/pdf/1904.05046.pdf
 
 Low-Shot Learning from Imaginary Data: https://arxiv.org/pdf/1801.05401.pdf
 
+drug study:
+
+1. Synergistic Drug Combination Prediction by Integrating Multi-omics Data in Deep Learning Models: https://arxiv.org/pdf/1811.07054.pdf
+
+2. Low Data Drug Discovery with One-Shot Learning: https://pubs.acs.org/doi/pdf/10.1021/acscentsci.6b00367
+
 2019/04/17:
 
 nanoSV: https://www.nature.com/articles/s41467-017-01343-4.pdf
