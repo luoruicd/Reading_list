@@ -38,6 +38,8 @@ drug study:
 
 2. Low Data Drug Discovery with One-Shot Learning: https://pubs.acs.org/doi/pdf/10.1021/acscentsci.6b00367
 
+3. Explainable machine learning prediction of synergistic drug combinations for precision cancer medicine: https://www.biorxiv.org/content/biorxiv/early/2018/05/27/331769.full.pdf
+
 2019/04/17:
 
 nanoSV: https://www.nature.com/articles/s41467-017-01343-4.pdf
