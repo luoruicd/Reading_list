@@ -20,6 +20,9 @@ tensorflow: https://www.tensorflow.org/hub/tutorials/image_retraining
 ***************************************************************
 ********** 2019/04
 
+2019/04/24:
+Unsupervised Domain Adaptation for Automatic Estimation of Cardiothoracic Ratio: https://arxiv.org/pdf/1807.03434.pdf
+
 2019/04/22:
 
 domain adaptation review blog: https://artix41.github.io/static/domain-adaptation-in-2017/index.html#fn2
