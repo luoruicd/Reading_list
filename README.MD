@@ -10,6 +10,8 @@ standford medical image DNN: https://aimi.stanford.edu/projects/deep-learning-co
 
 standford ML group: https://stanfordmlgroup.github.io/
 
+GAN model pool: https://github.com/tangzhenyu/Generative_Model_Zoo
+
 
 Tutorial:
 
