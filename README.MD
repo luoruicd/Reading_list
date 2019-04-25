@@ -26,6 +26,7 @@ pytorch: https://github.com/skyuuka/pytorch-tutorial
 
 2019/04/25
 AutoAugment - Learning Augmentation Policies from Data: https://github.com/DeepVoltaire/AutoAugment
+Self-Ensembling Attention Networks: Addressing Domain Shift for Semantic Segmentation: https://github.com/YonghaoXu/SEANet
 
 2019/04/24:
 Unsupervised Domain Adaptation for Automatic Estimation of Cardiothoracic Ratio: https://arxiv.org/pdf/1807.03434.pdf
