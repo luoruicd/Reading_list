@@ -24,6 +24,9 @@ pytorch: https://github.com/skyuuka/pytorch-tutorial
 ***************************************************************
 ********** 2019/04
 
+2019/04/25
+AutoAugment - Learning Augmentation Policies from Data: https://github.com/DeepVoltaire/AutoAugment
+
 2019/04/24:
 Unsupervised Domain Adaptation for Automatic Estimation of Cardiothoracic Ratio: https://arxiv.org/pdf/1807.03434.pdf
 
