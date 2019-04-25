@@ -19,6 +19,8 @@ keras: https://www.pyimagesearch.com/2017/03/20/imagenet-vggnet-resnet-inception
 
 tensorflow: https://www.tensorflow.org/hub/tutorials/image_retraining
 
+pytorch: https://github.com/skyuuka/pytorch-tutorial
+
 ***************************************************************
 ********** 2019/04
 
