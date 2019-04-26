@@ -21,6 +21,15 @@ tensorflow: https://www.tensorflow.org/hub/tutorials/image_retraining
 
 pytorch: https://github.com/skyuuka/pytorch-tutorial
 
+medical AI database:
+
+https://github.com/beamandrew/medical-data
+
+https://stanfordmlgroup.github.io/competitions/mura/
+
+https://grand-challenge.org/challenges/
+
+
 ***************************************************************
 ********** 2019/04
 
