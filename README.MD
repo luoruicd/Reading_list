@@ -33,6 +33,9 @@ https://grand-challenge.org/challenges/
 ***************************************************************
 ********** 2019/04
 
+2019/05/21
+Maximum Mean Discrepancy: http://alex.smola.org/teaching/iconip2006/iconip_3.pdf
+
 2019/04/25
 AutoAugment - Learning Augmentation Policies from Data: https://github.com/DeepVoltaire/AutoAugment
 Self-Ensembling Attention Networks: Addressing Domain Shift for Semantic Segmentation: https://github.com/YonghaoXu/SEANet
