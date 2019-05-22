@@ -37,7 +37,12 @@ https://grand-challenge.org/challenges/
 Impossibility Theorems for Domain Adaptation: http://proceedings.mlr.press/v9/david10a/david10a.pdf
 
 Domain Adaptation from Multiple Sources: A Domain-Dependent Regularization Approach: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6135800
+
 Note: traditional method, for kernal method like SVM. 
+
+AutoDIAL: Automatic DomaIn Alignment Layers: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8237804
+
+Note: DNN based, but not GAN, add DA layer (BN modified)
 
 2019/05/21
 Maximum Mean Discrepancy: http://alex.smola.org/teaching/iconip2006/iconip_3.pdf
