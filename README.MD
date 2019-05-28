@@ -29,9 +29,8 @@ https://stanfordmlgroup.github.io/competitions/mura/
 
 https://grand-challenge.org/challenges/
 
-
 ***************************************************************
-********** 2019/04
+********** 2019/05
 
 2019/05/28
 
@@ -42,6 +41,8 @@ SPIGAN: PRIVILEGED ADVERSARIAL LEARNING FROM SIMULATION: https://arxiv.org/pdf/1
 Recognizing RGB Images by Learning from RGB-D Data: http://www.vision.ee.ethz.ch/~liwenw/papers/Chen_CVPR2014.pdf
 
 A DOMAIN-ADAPTIVE TWO-STREAM U-NET FOR ELECTRON MICROSCOPY IMAGE SEGMENTATION: https://infoscience.epfl.ch/record/263574/files/Bermudez18.pdf
+
+Deep Learning under Privileged Information Using Heteroscedastic Dropout: https://arxiv.org/pdf/1805.11614.pdf
 
 
 2019/05/22
@@ -61,6 +62,11 @@ Maximum Mean Discrepancy: http://alex.smola.org/teaching/iconip2006/iconip_3.pdf
 Deep Domain Adaptation by Geodesic Distance Minimization: https://arxiv.org/pdf/1707.09842.pdf
 
 UNSUPERVISED DOMAIN ADAPTATION FOR DISTANCE METRIC LEARNING: https://openreview.net/pdf?id=BklhAj09K7
+
+
+***************************************************************
+********** 2019/04
+
 
 2019/04/25
 AutoAugment - Learning Augmentation Policies from Data: https://github.com/DeepVoltaire/AutoAugment
