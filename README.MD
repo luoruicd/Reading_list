@@ -33,6 +33,15 @@ https://grand-challenge.org/challenges/
 ***************************************************************
 ********** 2019/04
 
+2019/05/28
+
+SPIGAN: PRIVILEGED ADVERSARIAL LEARNING FROM SIMULATION: https://arxiv.org/pdf/1810.03756.pdf
+
+Recognizing RGB Images by Learning from RGB-D Data: http://www.vision.ee.ethz.ch/~liwenw/papers/Chen_CVPR2014.pdf
+
+A DOMAIN-ADAPTIVE TWO-STREAM U-NET FOR ELECTRON MICROSCOPY IMAGE SEGMENTATION: https://infoscience.epfl.ch/record/263574/files/Bermudez18.pdf
+
+
 2019/05/22
 Impossibility Theorems for Domain Adaptation: http://proceedings.mlr.press/v9/david10a/david10a.pdf
 
