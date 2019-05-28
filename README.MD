@@ -44,6 +44,10 @@ A DOMAIN-ADAPTIVE TWO-STREAM U-NET FOR ELECTRON MICROSCOPY IMAGE SEGMENTATION: h
 
 Deep Learning under Privileged Information Using Heteroscedastic Dropout: https://arxiv.org/pdf/1805.11614.pdf
 
+UNIFYING DISTILLATION AND PRIVILEGED INFORMATION: https://leon.bottou.org/publications/pdf/iclr-2016.pdf
+
+github for this paper: https://github.com/lopezpaz
+
 
 2019/05/22
 Impossibility Theorems for Domain Adaptation: http://proceedings.mlr.press/v9/david10a/david10a.pdf
