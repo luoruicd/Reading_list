@@ -48,6 +48,10 @@ UNIFYING DISTILLATION AND PRIVILEGED INFORMATION: https://leon.bottou.org/public
 
 github for this paper: https://github.com/lopezpaz
 
+VisualBackProp for learning using privileged information with CNNs: https://arxiv.org/pdf/1805.09474.pdf
+
+Note: more like a pre-set attention
+
 
 2019/05/22
 Impossibility Theorems for Domain Adaptation: http://proceedings.mlr.press/v9/david10a/david10a.pdf
