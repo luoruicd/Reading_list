@@ -32,6 +32,14 @@ https://grand-challenge.org/challenges/
 ***************************************************************
 ********** 2019/05
 
+2019/05/30
+
+Multimodal Machine Learning: A Survey and Taxonomy: https://arxiv.org/pdf/1705.09406.pdf
+
+Unsupervised Cross-Modality Domain Adaptation of ConvNets for Biomedical Image Segmentations with Adversarial Loss: https://www.ijcai.org/proceedings/2018/0096.pdf
+
+
+
 2019/05/28
 
 Deep Learning under Privileged Information Using Heteroscedastic Dropout:https://arxiv.org/pdf/1805.11614.pdf
