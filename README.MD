@@ -38,6 +38,8 @@ Multimodal Machine Learning: A Survey and Taxonomy: https://arxiv.org/pdf/1705.0
 
 Unsupervised Cross-Modality Domain Adaptation of ConvNets for Biomedical Image Segmentations with Adversarial Loss: https://www.ijcai.org/proceedings/2018/0096.pdf
 
+A Novel Domain Adaptation Framework for Medical Image Segmentation: https://arxiv.org/pdf/1810.05732.pdf
+
 
 
 2019/05/28
