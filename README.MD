@@ -30,6 +30,12 @@ https://stanfordmlgroup.github.io/competitions/mura/
 https://grand-challenge.org/challenges/
 
 ***************************************************************
+********** 2019/06
+
+On the Automatic Generation of Medical Imaging Reports: https://arxiv.org/pdf/1711.08195.pdf
+
+
+***************************************************************
 ********** 2019/05
 
 2019/05/30
