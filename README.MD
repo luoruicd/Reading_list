@@ -34,6 +34,8 @@ https://grand-challenge.org/challenges/
 
 On the Automatic Generation of Medical Imaging Reports: https://arxiv.org/pdf/1711.08195.pdf
 
+Learning from Noisy Labels with Distillation: https://arxiv.org/pdf/1703.02391.pdf
+
 
 ***************************************************************
 ********** 2019/05
