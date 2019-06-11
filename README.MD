@@ -32,6 +32,12 @@ https://grand-challenge.org/challenges/
 ***************************************************************
 ********** 2019/06
 
+2019/06/11
+
+Bag of Tricks for Image Classification with Convolutional Neural Networks: https://arxiv.org/pdf/1812.01187.pdf
+
+2019/06/01
+
 On the Automatic Generation of Medical Imaging Reports: https://arxiv.org/pdf/1711.08195.pdf
 
 Learning from Noisy Labels with Distillation: https://arxiv.org/pdf/1703.02391.pdf
