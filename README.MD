@@ -12,6 +12,8 @@ standford ML group: https://stanfordmlgroup.github.io/
 
 GAN model pool: https://github.com/tangzhenyu/Generative_Model_Zoo
 
+CVPR 2019 open access: http://openaccess.thecvf.com/CVPR2019.py
+
 
 Tutorial:
 
