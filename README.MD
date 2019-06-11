@@ -36,6 +36,8 @@ https://grand-challenge.org/challenges/
 
 Bag of Tricks for Image Classification with Convolutional Neural Networks: https://arxiv.org/pdf/1812.01187.pdf
 
+MixMatch: A Holistic Approach to Semi-Supervised Learning: https://arxiv.org/pdf/1905.02249.pdf
+
 2019/06/01
 
 On the Automatic Generation of Medical Imaging Reports: https://arxiv.org/pdf/1711.08195.pdf
