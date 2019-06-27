@@ -1,4 +1,9 @@
 Classical:
+Paper with code: https://github.com/zziz/pwc#2018
+
+Paper with code: https://github.com/zziz/pwc#2018
+
+Code for various frameworks: https://github.com/weiaicunzai/awesome-image-classification
 
 ResNet: https://arxiv.org/pdf/1512.03385.pdf
 
