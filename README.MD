@@ -37,6 +37,17 @@ https://stanfordmlgroup.github.io/competitions/mura/
 https://grand-challenge.org/challenges/
 
 ***************************************************************
+********** 2019/07
+
+2019/07/08
+
+Semi-Supervised Learning by Augmented Distribution Alignment: https://arxiv.org/pdf/1905.08171.pdf
+
+Brain Tumor Segmentation on MRI with Missing Modalities: https://arxiv.org/pdf/1904.07290.pdf
+
+Generalizing Across Domains via Cross-Gradient Training: https://openreview.net/forum?id=r1Dx7fbCW
+
+***************************************************************
 ********** 2019/06
 
 2019/06/11
