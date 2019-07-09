@@ -47,8 +47,6 @@ Brain Tumor Segmentation on MRI with Missing Modalities: https://arxiv.org/pdf/1
 
 Generalizing Across Domains via Cross-Gradient Training: https://openreview.net/forum?id=r1Dx7fbCW
 
-Global versus Localized Generative Adversarial Nets: https://arxiv.org/pdf/1711.06020.pdf
-
 ***************************************************************
 ********** 2019/06
 
