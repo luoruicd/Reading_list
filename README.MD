@@ -47,6 +47,8 @@ Brain Tumor Segmentation on MRI with Missing Modalities: https://arxiv.org/pdf/1
 
 Generalizing Across Domains via Cross-Gradient Training: https://openreview.net/forum?id=r1Dx7fbCW
 
+Medical Image Synthesis for Data Augmentation and Anonymization using Generative Adversarial Networks: https://arxiv.org/pdf/1807.10225.pdf
+
 ***************************************************************
 ********** 2019/06
 
